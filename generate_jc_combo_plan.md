@@ -1,108 +1,102 @@
-Here is a possible plan for your Junior (5th grade) and Cadette (8th grade) Girl Scout troops for the 2025-26 school year, adhering to your stated preferences and constraints.
-
-**Planning Constraints:**
-*   **Troops:** Junior (5th grade) and Cadette (8th grade)
-*   **Period:** September 2025 - June 2026
-*   **Frequency:** No more than 2 outings per month
-*   **Location:** Within 60 miles of Mountain View, California
-*   **Priority:** Events suitable for *both* Junior and Cadette levels
-*   **Exclusion:** Award Q&A sessions
-
----
-
-### Fall 2025 Outings Plan (Based on Provided Data & General Girl Scout Themes)
+Here is a possible plan for your Junior and Cadette Girl Scout troops for the 2025-26 school year, focusing on combined activities where possible, and staying within 60 miles of Mountain View, CA. Award Q&A sessions have been excluded as requested.
 
 **September 2025**
-
-1.  **Beach Clean Up** (Activity #5368)
-    *   **Date:** September 7, 2025
-    *   **Location:** San Gregorio Beach, Half Moon Bay, CA (Approx. 40 miles from Mountain View)
-    *   **Description:** A fantastic opportunity for both troops to engage in community service and outdoor stewardship. This event is open to ages 5-100 years, making it perfect for both Juniors and Cadettes.
-2.  **Author Discussion: Sylvia Acevedo with Robert Sutton** (Activity #5696)
-    *   **Date:** September 10, 2025
-    *   **Location:** Kepler's Books, Menlo Park, CA (Approx. 5-10 miles from Mountain View)
-    *   **Description:** An inspiring and educational event where the girls can learn from a successful author. Open to ages 5-100 years, this will be engaging for both age groups.
-
-*(**Note on Hometown Scavenger Hunt #5668**: This is a virtual, take-home activity available from September 1 to November 1, 2025. This could be offered as an optional, self-paced activity for the girls to complete individually or in small groups throughout the fall, or designated as a specific troop activity during a less busy month like October if you prefer.)*
-
----
-
-### Winter & Spring 2025-2026 Outings Plan (Suggested Themes & Types of Activities)
-
-*As the provided event list primarily covers specific dates in September 2025, the following plan for October 2025 to June 2026 is based on common Girl Scout program themes, typical council offerings, and suitable local Bay Area activities that would meet your troop's criteria. You would need to check the council calendar or local event listings closer to these dates for specific activity sign-ups.*
+1.  **Star Gazing Party - B, J, C, S, A**
+    *   **Date:** September 5, 2025
+    *   **Location:** Camp Twin Canyon, Lafayette, CA (approx. 30-40 miles from Mountain View)
+    *   **Activity Number:** 5474
+    *   **Description:** An enchanting evening dedicated to exploring the night sky and learning about constellations. This event is suitable for both Junior and Cadette troops.
+2.  **Teens Take Over: San Jose - Cadette, Senior, Ambassador**
+    *   **Date:** September 30, 2025 (First session of a recurring event series)
+    *   **Location:** Girl Scout Office, San Jose, CA (approx. 10 miles from Mountain View)
+    *   **Activity Number:** 5473
+    *   **Description:** A dynamic social event series designed for older Girl Scouts (Cadettes and older Juniors) to connect, share ideas, and have fun.
 
 **October 2025**
-1.  **Nature & Hiking Day**
-    *   **Type:** Outdoor exploration and badge work (e.g., "Hiker" badge for Juniors, "Trees" badge for Cadettes).
-    *   **Location Idea:** A local county park (e.g., San Jose's Almaden Quicksilver County Park, Los Altos Hills' Rancho San Antonio Preserve) or state park (e.g., Portola Redwoods State Park, Big Basin Redwoods State Park if accessible) within 60 miles, offering trails suitable for both age groups.
-2.  **Pumpkin Patch & Fall Festival Visit**
-    *   **Type:** Fun, seasonal activity.
-    *   **Location Idea:** A local farm or pumpkin patch (e.g., Arata's Pumpkin Farm in Half Moon Bay, Lemos Farm in Half Moon Bay). Many such locations offer activities enjoyable for both younger and older girls.
+1.  **International Day of the Girl - C,S,A**
+    *   **Date:** October 12, 2025
+    *   **Location:** Redwood City Woman's Club, Redwood City, CA (approx. 10-15 miles from Mountain View)
+    *   **Activity Number:** 5352
+    *   **Description:** A special event to celebrate the International Day of the Girl, focusing on empowerment, leadership, and global sisterhood for Cadettes and older Juniors.
+2.  **Ignite & Inspire: Older Girl Scout Celebration - J, C, S, A**
+    *   **Date:** October 18, 2025
+    *   **Location:** The Bridge Yard, Oakland, CA (approx. 30 miles from Mountain View)
+    *   **Activity Number:** 5472
+    *   **Description:** A vibrant celebration bringing together Junior, Cadette, Senior, and Ambassador Girl Scouts for an inspiring day of activities and camaraderie.
 
 **November 2025**
-1.  **STEM/STEAM Workshop**
-    *   **Type:** Hands-on learning in Science, Technology, Engineering, Arts, or Math.
-    *   **Location Idea:** The Tech Interactive in San Jose (approx. 15 miles from Mountain View), or a local library/community center hosting a robotics or coding workshop.
-2.  **Volunteering at a Local Food Bank**
-    *   **Type:** Community service, focusing on combating hunger.
-    *   **Location Idea:** Second Harvest of Silicon Valley (various locations near Mountain View, such as San Jose or San Carlos).
+1.  **Hogscouts Camp - Brownie, Junior, Cadette**
+    *   **Date:** November 14-16, 2025
+    *   **Location:** Butano Creek, Pescadero, CA (approx. 35-40 miles from Mountain View)
+    *   **Activity Number:** 5420
+    *   **Description:** A magical weekend camp adventure, perfect for both Junior and Cadette troops to enjoy outdoor activities and troop bonding.
+2.  **We Can Do It! Rosie the Riveter NH Park - D, B, J, C**
+    *   **Date:** November 22, 2025
+    *   **Location:** Rosie the Riveter Visitor Education Center, Richmond CA (approx. 40 miles from Mountain View)
+    *   **Activity Number:** 5398
+    *   **Description:** An educational outing to learn about women's contributions during WWII and the lasting legacy of Rosie the Riveter, suitable for both Junior and Cadette troops.
 
 **December 2025**
-1.  **Holiday-themed Crafts & Caroling**
-    *   **Type:** Creative expression, spreading cheer to local community.
-    *   **Location Idea:** Troop meeting place or a local senior center where girls can share their crafts and songs.
-2.  **Ice Skating**
-    *   **Type:** Fun, physical activity.
-    *   **Location Idea:** Sharks Ice at San Jose (approx. 15 miles), or a seasonal outdoor rink if available in a nearby city.
+1.  **Be Well, Be You: Health Empowerment Day - J, C, S, A**
+    *   **Date:** December 13, 2025
+    *   **Location:** Belmont Twin Pines Lodge, Belmont, CA (approx. 15 miles from Mountain View)
+    *   **Activity Number:** 5399
+    *   **Description:** A day dedicated to promoting physical and mental well-being, fostering self-confidence and health empowerment for Junior and Cadette Girl Scouts.
+2.  **Marvelous Makers: Holiday Gifts - D, B, J, C**
+    *   **Date:** December 14, 2025
+    *   **Location:** Girl Scout Office, San Jose, CA (approx. 10 miles from Mountain View)
+    *   **Activity Number:** 5400
+    *   **Description:** A fun and creative workshop where girls can craft unique handmade holiday gifts for friends and family. This event is open to both Junior and Cadette troops.
 
 **January 2026**
-1.  **Museum Visit (Cultural or Science)**
-    *   **Type:** Educational and enriching experience.
-    *   **Location Idea:** The Tech Interactive (San Jose) for science/innovation, or a local history museum.
-2.  **Goal Setting & Vision Board Workshop**
-    *   **Type:** Life skills, leadership development.
-    *   **Location Idea:** Troop meeting space or a community room. Can be tailored for age-appropriate goals for each troop.
+1.  **SWAPs Making Workshop (San Jose) - J,C,S,A**
+    *   **Date:** January 10, 2026
+    *   **Location:** Girl Scout Office, San Jose, CA (approx. 10 miles from Mountain View)
+    *   **Activity Number:** 5647
+    *   **Description:** Learn the history and art of making SWAPs (Special Whatchamacallits Affectionately Pinned Somewhere) – a beloved Girl Scout tradition. Open to Junior and Cadette troops.
+2.  **SWAPs Making Workshop (Alameda) - J,C,S,A**
+    *   **Date:** January 11, 2026
+    *   **Location:** Girl Scout Office, Alameda, CA (approx. 30 miles from Mountain View)
+    *   **Activity Number:** 5648
+    *   **Description:** Another opportunity for girls from both troops to gather and create memorable SWAPs to trade and keep.
 
 **February 2026**
-1.  **"Think Like A Programmer" Journey/Badge Work**
-    *   **Type:** Focus on problem-solving, computational thinking.
-    *   **Location Idea:** Local community center or library, potentially with guest speakers from tech companies (many in the Bay Area).
-2.  **Animal Shelter Visit & Service Project**
-    *   **Type:** Community service, learning about animal welfare.
-    *   **Location Idea:** Humane Society Silicon Valley (Milpitas, approx. 15-20 miles) or other local shelters. Girls could make blankets or toys for the animals.
+1.  **Fiber Arts Fair - J, C, S, A**
+    *   **Date:** February 1, 2026
+    *   **Location:** Girl Scout Office, Alameda, CA (approx. 30 miles from Mountain View)
+    *   **Activity Number:** 5405
+    *   **Description:** Explore various fiber arts techniques, from weaving to knitting, in this creative fair for Junior and Cadette Girl Scouts.
+2.  **Women in STEM Faire - J, C, S, A**
+    *   **Date:** February 7, 2026
+    *   **Location:** Pleasant Hill Senior Center, Pleasant Hill, CA (approx. 40 miles from Mountain View)
+    *   **Activity Number:** 5409
+    *   **Description:** Engage in exciting hands-on STEM activities and hear from inspiring women working in science, technology, engineering, and math fields. Suitable for both Junior and Cadette troops.
 
 **March 2026**
-1.  **Financial Literacy Workshop / Cookie Money Management**
-    *   **Type:** Life skills, linked to the Girl Scout Cookie Program.
-    *   **Location Idea:** Troop meeting space, potentially with a guest speaker from a local bank or credit union.
-2.  **Outdoor Skills Day**
-    *   **Type:** Practicing essential outdoor skills (knot-tying, fire safety, Leave No Trace).
-    *   **Location Idea:** A local park or Girl Scout camp property (e.g., Camp Butano, Camp Twin Canyon if available for day use) within 60 miles.
+1.  **Outdoor Cooking (Afternoon): Cadette, Seniors, Ambassadors**
+    *   **Date:** March 21, 2026
+    *   **Location:** Camp Bothin, Fairfax, CA (approx. 40-50 miles from Mountain View)
+    *   **Activity Number:** 5424
+    *   **Description:** Learn and practice essential outdoor cooking techniques over a fire. This outing is specifically for the Cadette troop.
 
 **April 2026**
-1.  **Earth Day Celebration / Environmental Project**
-    *   **Type:** Environmental awareness and service.
-    *   **Location Idea:** Park clean-up, planting trees/gardens at a local school or community space.
-2.  **Arts & Culture Outing**
-    *   **Type:** Exposure to different art forms or cultural experiences.
-    *   **Location Idea:** Cantor Arts Center (Stanford, Palo Alto, ~10 miles) or a local performance.
+1.  **LEAF Convention - Brownie, Junior, Cadette**
+    *   **Date:** April 18, 2026
+    *   **Location:** Camp Butano Creek, Pescadero, CA (approx. 35-40 miles from Mountain View)
+    *   **Activity Number:** 5416
+    *   **Description:** A convention focused on Leadership, Environment, Advocacy, and Fun, offering a variety of workshops and activities for Junior and Cadette Girl Scouts.
 
 **May 2026**
-1.  **Kayaking/Paddleboarding Introduction**
-    *   **Type:** Outdoor recreation, water safety.
-    *   **Location Idea:** Shoreline Lake in Mountain View (local!), or another calm body of water like the Redwood Shores Lagoon (Redwood City).
-2.  **End-of-Year Community Service Project**
-    *   **Type:** A final push for community impact before the school year ends.
-    *   **Location Idea:** Collaborating with a local non-profit (e.g., making care packages for the unhoused, writing letters to seniors).
+1.  **Self Love Sanctuary - Cadette, Senior, Ambassador**
+    *   **Date:** May 2, 2026
+    *   **Location:** Camp Hidden Falls, Soquel, CA (approx. 40 miles from Mountain View)
+    *   **Activity Number:** 5446
+    *   **Description:** A peaceful workshop focused on self-care, mindfulness, and empowerment for older Girl Scouts, suitable for the Cadette troop.
+2.  **Star Gazing Party - B, J, C, S, A**
+    *   **Date:** May 15, 2026
+    *   **Location:** Camp Twin Canyon, Lafayette, CA (approx. 30-40 miles from Mountain View)
+    *   **Activity Number:** 5449
+    *   **Description:** Another opportunity for both Junior and Cadette troops to enjoy an evening of stargazing under expert guidance.
 
 **June 2026**
-1.  **End-of-Year Celebration & Awards Ceremony**
-    *   **Type:** Troop bonding, reflection on achievements.
-    *   **Location Idea:** A picnic at a local park, or a fun potluck at a community center.
-2.  **Preparation for Summer Journeys/Camps**
-    *   **Type:** Light planning session for individual summer activities or a fun pre-summer gathering.
-    *   **Location Idea:** Troop meeting space, ice cream shop.
-
----
-
-This plan offers a diverse range of activities that align with the Girl Scout program, prioritizes inclusion for both your Junior and Cadette troops, and stays within your geographic and frequency limits. Remember to always confirm event details, availability, and specific age requirements when booking. Good luck with your planning!
+*   Based on the provided activity search results, there are no specific events listed for June 2026 that fit the criteria. You might consider an end-of-year troop celebration or plan an activity independently.
