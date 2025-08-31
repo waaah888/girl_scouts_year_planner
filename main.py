@@ -81,7 +81,7 @@ def fetch_and_save_page(url, filename):
         sys.exit(1)
 
 if __name__ == "__main__":
-    # Note: Required installations:
+    # Need these installations:
     #    % pip install requests-html
     #    % pip install lxml_html_clean
     output_filename = 'output.html'
